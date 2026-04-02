@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practipark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09bf75b40d55a6ffa8661e0250000ec6da40c43b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practipark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practipark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

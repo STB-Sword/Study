@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Practipark.Business\Practipark.Business.csproj" />
+    <ProjectReference Include="..\Practipark.Infrastructure\Practipark.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
